@@ -21,6 +21,7 @@ gem "decent_exposure"
 gem "listen", "~> 3.0.5"
 gem "responders"
 gem "rspec_api_documentation"
+gem "unsplash"
 
 group :development do
   gem "bullet"
